@@ -1,0 +1,4 @@
+@ACL1000
+^LOGFILE  ACL_Salesforce_extractor            "" "ACL_Salesforce_extractor.LOG"
+[PARENT_FOLDER_ID] 0
+^OPEN 
